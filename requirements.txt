@@ -1,0 +1,15 @@
+streamlit
+chromadb
+sentence-transformers
+pdfplumber
+python-docx
+ollama
+llama-cpp-python
+openllm
+PyPDF2
+fastapi
+uvicorn[standard]
+pydantic
+requests
+nltk
+python-multipart 
